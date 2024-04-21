@@ -1,0 +1,114 @@
+Model Name,Vehicle Type,Engine Displacement (cc),Fuel Type,Turbocharged,Price,Number of Cylinders,Horsepower,Torque (Nm)
+Toyota Corolla,Sedan,1798,Gasoline,No,20000,4,140,172
+Toyota Camry,Sedan,2494,Gasoline,No,25000,4,178,221
+Toyota RAV4,SUV,2487,Gasoline,No,28000,4,203,243
+Toyota Fortuner,SUV,2755,Diesel,No,35000,4,201,500
+Toyota Innova,MPV,2755,Diesel,No,30000,4,147,360
+Toyota Yaris,Sedan,1496,Gasoline,No,18000,4,106,140
+Toyota Vios,Sedan,1496,Gasoline,No,19000,4,106,140
+Toyota Hilux,Truck,2393,Diesel,No,28000,4,148,400
+Toyota Land Cruiser,SUV,4461,Diesel,No,80000,8,381,615
+Toyota Prado,SUV,2755,Diesel,No,70000,4,201,500
+Toyota Corolla Altis,Sedan,1598,Gasoline,No,22000,4,139,172
+Toyota Avanza,MPV,1496,Gasoline,No,21000,4,103,136
+Toyota C-HR,SUV,1987,Gasoline,No,25000,4,142,188
+Toyota Supra,Coupe,2998,Gasoline,Yes,50000,6,335,500
+Toyota Hiace,Van,2755,Diesel,No,35000,4,149,300
+Toyota Etios,Sedan,1496,Gasoline,No,17000,4,88,132
+Toyota Rush,SUV,1496,Gasoline,No,19000,4,102,134
+Toyota Alphard,Minivan,3456,Gasoline,No,60000,6,296,361
+Toyota Previa,Minivan,2494,Gasoline,No,50000,4,168,224
+Toyota Sequoia,SUV,5663,Petrol,No,50000,8,381,544
+Toyota Yaris Cross,SUV,1496,Gasoline,No,22000,4,106,140
+Toyota Sienta,Minivan,1496,Gasoline,No,24000,4,105,140
+Toyota Raize,SUV,998,Gasoline,No,20000,3,98,140
+Toyota Harrier,SUV,1987,Gasoline,No,32000,4,169,207
+Toyota Crown,Sedan,2494,Gasoline,No,40000,4,234,350
+Toyota Mark X,Sedan,2499,Gasoline,No,35000,6,218,336
+Toyota Vellfire,Minivan,2494,Gasoline,No,55000,4,168,224
+Toyota Noah,Minivan,1987,Gasoline,No,30000,4,148,193
+Toyota Voxy,Minivan,1987,Gasoline,No,32000,4,148,193
+Toyota Avanza Veloz,MPV,1496,Gasoline,No,23000,4,103,136
+Toyota Calya,MPV,1197,Gasoline,No,15000,3,88,108
+Toyota Agya,Hatchback,998,Gasoline,No,13000,3,65,89
+Toyota Yaris Ativ,Sedan,1496,Gasoline,No,20000,4,107,140
+Toyota Corolla Cross,SUV,1798,Gasoline,No,25000,4,140,172
+Toyota Camry Hybrid,Sedan,2487,Gasoline,Yes,32000,4,208,202
+Toyota Prius,Hybrid,1798,Gasoline,Yes,28000,4,121,142
+Toyota Vios GR-S,Sedan,1496,Gasoline,No,23000,4,105,140
+Toyota Hilux Revo,Truck,2393,Diesel,No,30000,4,148,400
+Toyota Land Cruiser Prado,SUV,2755,Diesel,No,70000,4,201,500
+Toyota Corolla Axio,Sedan,1496,Gasoline,No,21000,4,106,140
+Toyota Corolla Fielder,Wagon,1496,Gasoline,No,22000,4,106,140
+Toyota Yaris GR-S,Hatchback,1496,Gasoline,No,25000,4,105,140
+Toyota Hilux Vigo Champ,Truck,2494,Diesel,No,28000,4,148,343
+Toyota Land Cruiser 200,SUV,4461,Diesel,No,80000,8,381,615
+Toyota RAV4 Prime,SUV,2487,Hybrid,Yes,40000,4,302,440
+Toyota Corolla Cross Hybrid,SUV,1798,Hybrid,No,30000,4,121,142
+Toyota Vios GR-S Sedan,Sedan,1496,Gasoline,No,24000,4,105,140
+Toyota Yaris GR-S Hatchback,Hatchback,1496,Gasoline,No,26000,4,105,140
+Toyota C-HR GR Sport,SUV,1987,Gasoline,No,27000,4,169,207
+Toyota Fortuner TRD,SUV,2755,Diesel,No,36000,4,201,500
+Toyota Innova Crysta,MPV,2755,Diesel,No,32000,4,147,360
+Toyota Yaris Cross Hybrid,SUV,1496,Hybrid,No,28000,4,106,141
+Toyota Yaris Ativ Hybrid,Sedan,1496,Hybrid,No,27000,4,107,141
+Toyota Sienta Hybrid,Minivan,1496,Hybrid,No,29000,4,105,141
+Toyota Raize Hybrid,SUV,998,Hybrid,No,24000,3,98,140
+Toyota Harrier Hybrid,SUV,1987,Hybrid,No,37000,4,219,279
+Toyota Crown Hybrid,Sedan,2494,Hybrid,No,45000,4,215,356
+Toyota Alphard Hybrid,Minivan,2457,Hybrid,No,60000,4,180,235
+Toyota Vellfire Hybrid,Minivan,2494,Hybrid,No,65000,4,180,235
+Toyota Noah Hybrid,Minivan,1987,Hybrid,No,32000,4,145,188
+Toyota Voxy Hybrid,Minivan,1987,Hybrid,No,34000,4,145,188
+Toyota Sienna,Minivan,3456,Hybrid,No,40000,6,245,356
+Toyota Corolla Cross Hybrid Style,SUV,1798,Hybrid,No,31000,4,121,142
+Toyota Corolla Cross Hybrid Adventure,SUV,1798,Hybrid,No,32000,4,121,142
+Toyota Yaris GRMN,Hatchback,1598,Gasoline,Yes,35000,3,257,360
+Toyota Yaris WRC,Hatchback,1598,Gasoline,Yes,40000,4,380,480
+Toyota GR Yaris,Hatchback,1618,Gasoline,Yes,45000,3,268,370
+Toyota GT86,Coupe,1998,Gasoline,No,30000,4,200,205
+Toyota GR Supra A90,Coupe,2998,Gasoline,Yes,55000,6,335,500
+Toyota GR Supra A91,Coupe,2998,Gasoline,Yes,60000,6,382,500
+Toyota GR Supra A91 CF,Coupe,2998,Gasoline,Yes,62000,6,382,500
+Toyota GR Supra A91 Edition,Coupe,2998,Gasoline,Yes,55000,6,382,500
+Toyota GR Supra A91 Edition CF,Coupe,2998,Gasoline,Yes,62000,6,382,500
+Toyota GR Supra Jarama,Coupe,2998,Gasoline,Yes,65000,6,405,550
+Toyota GR Supra Fuji,Coupe,2998,Gasoline,Yes,65000,6,405,550
+Toyota GR Supra Nurburgring,Coupe,2998,Gasoline,Yes,68000,6,430,550
+Toyota GR Supra Tsukuba,Coupe,2998,Gasoline,Yes,68000,6,430,550
+Toyota GR Supra A90 Edition,Coupe,2998,Gasoline,Yes,60000,6,335,500
+Toyota GR Supra A90 Edition CF,Coupe,2998,Gasoline,Yes,62000,6,335,500
+Toyota GR Supra Heritage Edition,Coupe,2998,Gasoline,Yes,62000,6,382,500
+Toyota GR Supra Sport Top,Coupe,2998,Gasoline,Yes,65000,6,405,550
+Toyota GR Supra Sport Top Edition,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra Sport Top Edition CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra Heritage Edition Sport Top,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra Heritage Edition Sport Top CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra A90 Edition Sport Top,Coupe,2998,Gasoline,Yes,62000,6,335,500
+Toyota GR Supra A90 Edition Sport Top CF,Coupe,2998,Gasoline,Yes,64000,6,335,500
+Toyota GR Supra A90 Edition Heritage Edition,Coupe,2998,Gasoline,Yes,64000,6,382,500
+Toyota GR Supra A90 Edition Heritage Edition CF,Coupe,2998,Gasoline,Yes,66000,6,382,500
+Toyota GR Supra A91 Edition Sport Top,Coupe,2998,Gasoline,Yes,65000,6,382,500
+Toyota GR Supra A91 Edition Sport Top CF,Coupe,2998,Gasoline,Yes,67000,6,382,500
+Toyota GR Supra A91 Edition Heritage Edition,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra A91 Edition Heritage Edition CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra A90 Edition Sport Top Heritage Edition,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra A90 Edition Sport Top Heritage Edition CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra A90 Edition Heritage Edition Sport Top,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra A90 Edition Heritage Edition Sport Top CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra A91 Edition Sport Top Heritage Edition,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra A91 Edition Sport Top Heritage Edition CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra A91 Edition Heritage Edition Sport Top,Coupe,2998,Gasoline,Yes,67000,6,430,550
+Toyota GR Supra A91 Edition Heritage Edition Sport Top CF,Coupe,2998,Gasoline,Yes,69000,6,430,550
+Toyota GR Supra Jarama Sport Top,Coupe,2998,Gasoline,Yes,69000,6,405,550
+Toyota GR Supra Jarama Edition,Coupe,2998,Gasoline,Yes,67000,6,405,550
+Toyota GR Supra Jarama Edition Sport Top,Coupe,2998,Gasoline,Yes,69000,6,405,550
+Toyota GR Supra Fuji Sport Top,Coupe,2998,Gasoline,Yes,69000,6,405,550
+Toyota GR Supra Fuji Edition,Coupe,2998,Gasoline,Yes,67000,6,405,550
+Toyota GR Supra Fuji Edition Sport Top,Coupe,2998,Gasoline,Yes,69000,6,405,550
+Toyota GR Supra Nurburgring Sport Top,Coupe,2998,Gasoline,Yes,72000,6,430,550
+Toyota GR Supra Nurburgring Edition,Coupe,2998,Gasoline,Yes,70000,6,430,550
+Toyota GR Supra Nurburgring Edition Sport Top,Coupe,2998,Gasoline,Yes,72000,6,430,550
+Toyota GR Supra Tsukuba Sport Top,Coupe,2998,Gasoline,Yes,72000,6,430,550
+Toyota GR Supra Tsukuba Edition,Coupe,2998,Gasoline,Yes,70000,6,430,550
+Toyota GR Supra Tsukuba Edition Sport Top,Coupe,2998,Gasoline,Yes,72000,6,430,550
